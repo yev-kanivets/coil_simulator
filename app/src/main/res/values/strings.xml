@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coil Simulator</string>
+    <string name="meter_counter">%1$.2f m</string>
+    <string name="play_sound">Play sound</string>
+    <string name="apply_skin">Apply skin</string>
+    <string name="title_activity_skin">Choose skin</string>
+    <string name="border">Border</string>
+    <string name="base_line">Base line</string>
+    <string name="thread">Thread</string>
+    <string name="display_side_view">Display face view</string>
+</resources>
